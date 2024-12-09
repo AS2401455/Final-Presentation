@@ -1,0 +1,8 @@
+Part,Description,Quantity,Manufacturer,Part Number,Datasheet,Price (EGP),Total Price (EGP)
+Arduino Uno,Arduino Uno Rev3,1,Arduino,A000066,https://store.arduino.cc/usa/documents/Arduino_Uno_Rev3_schematics.pdf,500,500
+LM35,Temp sensor,1,,,,50,550
+LCD KEYPAD SHIELD,KEYPAD SHIELD,1,,,,120,670
+Jumper Wires,Male-to-Male,Several,,,,50,730
+Breadboard,,1,,,,50,780
+DC Motor,motor,1,,,,100,880
+L298N ,Motor driver,1,,,,120,1000
